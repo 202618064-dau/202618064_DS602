@@ -2,6 +2,11 @@
 
 An interactive statistical analysis dashboard built with Python and Streamlit.
 
+## 🌐 Live Dashboard
+
+**Live App:**  
+https://202618064ds602-bpykkxrgwixttrqqfsr8ni.streamlit.app/
+
 ## Project Overview
 
 This project performs statistical exploration, hypothesis testing,
@@ -62,6 +67,12 @@ using the California Housing dataset.
 
 ## How to Run Locally
 
-```bash
+bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app.py 
+
+## Author
+
+Gauri Dawar 
+202618064
+MSc Ds
